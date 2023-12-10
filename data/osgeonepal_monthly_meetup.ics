@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Kathmandu
+LAST-MODIFIED:20230407T050750Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Asia/Kathmandu
+X-LIC-LOCATION:Asia/Kathmandu
+BEGIN:STANDARD
+TZNAME:+0545
+TZOFFSETFROM:+0545
+TZOFFSETTO:+0545
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20231210T032443Z
+UID:1702178621627-82414@ical.marudot.com
+DTSTART;TZID=Asia/Katmandu:20240103T190000
+RRULE:FREQ=MONTHLY;BYDAY=1WE
+DTEND;TZID=Asia/Katmandu:20240103T200000
+SUMMARY:OSGeo Nepal Monthly Meetup
+URL:https://meet.jit.si/osgeonepal 
+DESCRIPTION:OS Geo Nepal Wiki : \nhttps://wiki.osgeo.org/wiki/Nepal\nJoin Meet using https://meet.jit.si/  Here : https://meet.jit.si/osgeonepal \nRolling Doc for agenda's : https://github.com/osgeonepal/RollingConvo 
+LOCATION:Online Jitsi
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OSGeo Nepal Monthly Meetup
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
