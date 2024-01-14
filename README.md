@@ -7,3 +7,11 @@ We frequently meet and discuss all our agenda in Discord , Join us from [here](h
 
 ## Subscribe to Google Group
 We send related information in our google group , Subscribe and Join from [osgeonepal](https://groups.google.com/g/osgeonepal)
+
+## Join in Monthly Meetups of OSGEO community
+
+Meetings are scheduled on the first Wednesday of Every Month 7 pm onwards.
+Join the **OSGEO Nepal** Jitsi meet room via link [here.](https://meet.jit.si/osgeonepal)
+
+Let's have open discussions!!!
+
