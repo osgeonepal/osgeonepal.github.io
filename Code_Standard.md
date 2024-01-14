@@ -22,7 +22,7 @@
 
 * Code formatter to use in visual code: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
 
-
+* Must include `README.md` file in the project directory.
 
 # Reference
 
