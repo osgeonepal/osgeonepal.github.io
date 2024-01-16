@@ -3,4 +3,5 @@ site_url: https://hem2058.github.io/
 nav:
   - Home: index.md
   - Objectives: objectives.md
+  - Event & Activities: event.md
 theme: readthedocs

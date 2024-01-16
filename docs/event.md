@@ -1,0 +1,1 @@
+Stay tuned for our upcoming events and activities. Our revived chapter will host a variety of webinars, workshops, and collaborative projects to engage the community and promote open source geospatial technologies
