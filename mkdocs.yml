@@ -4,4 +4,5 @@ nav:
   - Home: index.md
   - Objectives: objectives.md
   - Event & Activities: event.md
+  - Contribution: contribution.md
 theme: readthedocs
