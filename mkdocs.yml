@@ -5,9 +5,9 @@ docs_dir: "docs"
 site_dir: "build"
 
 #header
-repo_name: "osegonepal/RollingConvo"
-repo_url: "https://github.com/osgeonepal/RollingConvo/"
-site_url: "https://osgeonepal.github.io/RollingConvo/"
+repo_name: "osegonepal/rollingdoc"
+repo_url: "https://github.com/osgeonepal/rollingdoc/"
+site_url: "https://osgeonepal.github.io/rollingdoc/"
 
 #Footer
 extra:
