@@ -43,7 +43,7 @@ theme:
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: pink
+      primary: green
       scheme: default
       toggle:
         icon: material/brightness-7

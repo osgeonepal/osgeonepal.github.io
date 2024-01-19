@@ -4,7 +4,7 @@ Rolling Doc and Wiki for OSGeo Nepal, Find our wiki [here](https://github.com/os
 
 ## Contributing
 
-Follow these contributing [guides](./CONTRIBUTING.md)
+Follow these contributing [guides](./docs/CONTRIBUTING.md)
 
 ## Join US on Discord
 
