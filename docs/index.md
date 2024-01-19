@@ -8,9 +8,6 @@ To reconnect with us and stay updated on our renewed activities, join our Facebo
 
 - **Facebook Group:** [https://www.facebook.com/groups/osgeonepal](https://www.facebook.com/groups/osgeonepal)
 - **Google Group:** [https://groups.google.com/g/osgeonepal/](https://groups.google.com/g/osgeonepal/)
-
-## Join us in Discord
-
-[https://discord.com/invite/wAYsS5gE](https://discord.com/invite/wAYsS5gE)
+- **Discord:**[https://discord.com/invite/wAYsS5gE](https://discord.com/invite/wAYsS5gE)
 
 Keep in touch with us through our [Contact Us](#) page.
