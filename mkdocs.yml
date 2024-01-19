@@ -20,7 +20,7 @@ nav:
   - Home: index.md
   - Objectives: objectives.md
   - Event & Activities: event.md
-  - Meetings : Meetings
+  - ...
   - Contribution: CONTRIBUTING.md
   - Contact Us: contact.md
 
@@ -43,7 +43,7 @@ theme:
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: green
+      primary: pink
       scheme: default
       toggle:
         icon: material/brightness-7
