@@ -1,6 +1,6 @@
 # About Us
 
-Welcome to the official page of OSGeo Nepal, a revitalized local chapter of the Open Source Geospatial Foundation (OSGeo). Initially started in 2014 and now being resumed, we are a community-driven initiative dedicated to promoting and supporting the use of open source geospatial technologies in Nepal. Our aim is to bring together enthusiasts, professionals, and individuals interested in geospatial technology to collaborate, learn, and contribute to the field.
+Welcome to the official page of OSGeo Nepal, a revitalized local chapter of the Open Source Geospatial Foundation (OSGeo). We are a community-driven initiative dedicated to promoting and supporting the use of open source geospatial technologies in Nepal. Our aim is to bring together enthusiasts, professionals, and individuals interested in geospatial technology to collaborate, learn, and contribute to the field.
 
 ## Join Us
 
