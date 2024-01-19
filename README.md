@@ -1,10 +1,12 @@
-## Wiki
+## OSGeo Nepal
 
-Rolling Doc and Wiki for OSGeo Nepal, Find our wiki [here](https://github.com/osgeonepal/RollingConvo/wiki/General)
+Rolling Doc and Wiki for OSGeo Nepal, Follow [here](https://osgeonepal.github.io/rollingdoc/)
 
 ## Contributing
 
 Follow these contributing [guides](./docs/CONTRIBUTING.md)
+
+Note : While contributing to docs for meetings and events make sure your .md file naming starts with ```year_month_day_rest_details.md```
 
 ## Join US on Discord
 
