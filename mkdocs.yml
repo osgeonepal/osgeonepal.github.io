@@ -1,0 +1,9 @@
+site_name: osgeonepal
+site_url: https://hem2058.github.io/
+nav:
+  - Home: index.md
+  - Objectives: objectives.md
+  - Event & Activities: event.md
+  - Contribution: contribution.md
+  - Contact Us: contact.md
+theme: readthedocs
