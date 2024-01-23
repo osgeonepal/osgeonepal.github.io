@@ -1,0 +1,58 @@
+site_name: OSGeo Nepal
+site_description: OSGeo Nepal is group of geospatial developers from Nepal
+
+docs_dir: "docs"
+site_dir: "build"
+
+#header
+repo_name: "osegonepal/rollingdoc"
+repo_url: "https://github.com/osgeonepal/rollingdoc/"
+site_url: "https://osgeonepal.github.io/rollingdoc/"
+
+#Footer
+extra:
+  social:
+    - icon: "fontawesome/brands/github"
+      link: "https://github.com/osgeonepal"
+
+#Navigation
+nav:
+  - Home: index.md
+  - Objectives: objectives.md
+  - ...
+  - Contributing: CONTRIBUTING.md
+  - Contact Us: contact.md
+
+
+plugins:
+  - search
+  - awesome-pages
+  - mkdocs-jupyter #for jupyter notebook support
+  - neoteroi.mkdocsoad: # openapi docs
+      use_pymdownx: true
+
+extra_css:
+  - css/mkdocsoad.cssmkdocs
+
+#customization
+theme:
+  name: material
+  #internalization
+  language: en
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: pink
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji: #for emoji support e.g checkmarks
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
