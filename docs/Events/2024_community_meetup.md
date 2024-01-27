@@ -9,19 +9,19 @@ This event is designed to bring together open-source geospatial tech enthusiasts
 
 Our events include activities such as:
 
-- **Community Showcase & Mapping Party:**
+- **Community showcase & mapping party:**
 
   To discover existing geospatial open source projects within and related initiatives. We plan to organize a mapping party to keep building our mapping strength in OpenStreetMap
   
-- **Open Mic and Community Sprint:**
+- **Open mic and codding sprint:**
   
-  Showcase the existing best practices while helping fellow members get started. We aim to conduct a community sprint to maintain/start community projects on a broader level 
+  Showcase the existing best practices while helping fellow members get started. We aim to conduct a coding sprint to maintain/contribute to community projects on a broader level 
 
 - **Networking opportunities:**
 
   Connect with individuals with the same mindset and explore potential collaborations
 
-- **Interactive Workshops:**
+- **Interactive workshops:**
 
   Participate in hands-on-workshops that promote skill-sharing and promote collaboration
 
