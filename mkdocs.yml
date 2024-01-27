@@ -20,9 +20,7 @@ nav:
   - Home: index.md
   - Objectives: objectives.md
   - ...
-  - Contributing: CONTRIBUTING.md
-  - Contact Us: contact.md
-
+  - Contact Us: contact.md 
 
 plugins:
   - search

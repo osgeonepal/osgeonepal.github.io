@@ -8,6 +8,7 @@ Before you start your journey, make sure you have the following:
 - Git Installed: Install Git on your local machine. This is essential for cloning repositories, making changes, and pushing them back to GitHub.
 - Familiarity with Git: Basic knowledge of Git commands is beneficial. Learn about commands like clone, branch, commit, push, and pull request.
 - Committer Responsibilities Guidelines - Make sure to follow these [OSGeo contributor guidelines](https://wiki.osgeo.org/wiki/Committer_Responsibilities_Guidelines).
+- Community Standards - Make sure you have gone through our [OSGeo Nepal community standards](./Standards.md)
 
 ## How to get started
 

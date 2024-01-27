@@ -1,4 +1,4 @@
-# OSGeo Nepal Standard to follow 
+# Community Standards
 
 Projects applying to the *OSGeo Nepal Community* program are asked to:
 
