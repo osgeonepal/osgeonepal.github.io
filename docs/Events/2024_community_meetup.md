@@ -2,6 +2,7 @@
 
 ## Date: 
 The date is not fixed yet, We aim to have at least one physical community meetup in 2024 
+Stay Tuned with us!!!
 
 ## Description: 
 
