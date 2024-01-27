@@ -1,13 +1,44 @@
 ## OSGeo Nepal Community Meetup 
 
-## Date : 
-Date is not fixed yet , We aim to have at least one physical community meetup in 2024 
+## Date: 
+The date is not fixed yet, We aim to have at least one physical community meetup in 2024 
 
-## Description : 
+## Description: 
 
-OSGeo Nepal community meetup has main two objectives : 
-- Bring all geospatial tech enthusiastics in one place 
-- Strengthen community projects 
-- Interactive Workshops  
+This event is designed to bring together open-source geospatial tech enthusiasts of Nepal to contribute to community projects, strengthen connections, share ideas, and motivate each other to keep going.
 
-TBD 
+Our events include activities such as:
+
+- **Community Showcase & Mapping Party:**
+
+  To discover existing geospatial open source projects within and related initiatives. We plan to organize a mapping party to keep building our mapping strength in OpenStreetMap
+  
+- **Open Mic and Community Sprint:**
+  
+  Showcase the existing best practices while helping fellow members get started. We aim to conduct a community sprint to maintain/start community projects on a broader level 
+
+- **Networking opportunities:**
+
+  Connect with individuals with the same mindset and explore potential collaborations
+
+- **Interactive Workshops:**
+
+  Participate in hands-on-workshops that promote skill-sharing and promote collaboration
+
+Note: This description and event plan is subject to change
+
+## Location:
+
+**Pokhara** and **Kathmandu** are the proposed locations. We will decide based on the logistics, funding, and discussions.
+
+## Target Audience:
+
+Open source geospatial tech enthusiastic within Nepal
+
+## Expected Number of people 
+
+50
+
+## Collaboration 
+
+- **NGES:** Nepal Geomatics Engineering Society (NGES) 
