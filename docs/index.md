@@ -11,6 +11,7 @@ To reconnect with us and stay updated on our renewed activities, We are active o
 - **Discord:**[https://discord.com/invite/wAYsS5gE](https://discord.com/invite/wAYsS5gE)
 
 ### Monthly Meet
-    We meet monthly in first Wednesday, Download and add this calendar invite in yours calendar from [invite.ics](https://github.com/osgeonepal/RollingConvo/raw/main/data/osgeonepal_monthly_meetup.ics) Hit CTRL+S to save raw content ! , Check [Meetings](#) for Previous Meetings agenda and discussion
+    
+We meet monthly in first Wednesday, Download and add this calendar invite in yours calendar from [invite.ics](https://github.com/osgeonepal/RollingConvo/raw/main/data/osgeonepal_monthly_meetup.ics) Hit CTRL+S to save raw content ! , Check [Meetings](#) for Previous Meetings agenda and discussion
 
 Keep in touch with us through our [Contact Us](#) page.
