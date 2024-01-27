@@ -41,4 +41,5 @@ Open source geospatial tech enthusiastic within Nepal
 
 ## Collaboration 
 
-- **NGES:** Nepal Geomatics Engineering Society (NGES) 
+- **NGES:** Nepal Geomatics Engineering Society (NGES)
+- **OSM Nepal** : Nepal community of open street map contributors
