@@ -4,6 +4,7 @@ CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
 TZID:Asia/Kathmandu
 LAST-MODIFIED:20230407T050750Z
+ORGANIZER;CN=OSGeo Nepal:mailto:osgeonepal@googlegroup.com
 TZURL:https://www.tzurl.org/zoneinfo-outlook/Asia/Kathmandu
 X-LIC-LOCATION:Asia/Kathmandu
 BEGIN:STANDARD
