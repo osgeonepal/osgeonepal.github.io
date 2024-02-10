@@ -1,7 +1,7 @@
 ---
 name: Meeting Minutes
 about: Use this template for recording monthly meetings.
-title: "Meeting_[Date(Y-M-D)]"
+title: "Meeting [Date(Y-M-D)]"
 labels: meetings
 assignees: 
 ---
