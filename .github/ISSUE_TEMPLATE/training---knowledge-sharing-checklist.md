@@ -3,7 +3,7 @@ name: Training & Knowledge sharing checklist
 about: The purpose of this issue template is to fill the required details for the
   upcoming webinar easily without missing anything.
 title: "[Training & collaboration]"
-labels: ''
+labels: training
 assignees: iamtekson, Lalitgis, Pratichhya
 
 ---
