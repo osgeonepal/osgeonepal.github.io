@@ -1,9 +1,10 @@
 ---
 name: Meeting Minutes
 about: Use this template for recording monthly meetings.
-title: "Meeting [Date(Y-M-D)]"
-labels: meetings
-assignees: 
+title: Meeting [Date(Y-M-D)]
+labels: meeting
+assignees: ''
+
 ---
 
 # OSGeo Nepal General Meeting - Month Day, Year
