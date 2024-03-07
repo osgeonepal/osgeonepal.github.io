@@ -1,4 +1,4 @@
-# OSGeo Nepal First Monthly Meet - March 5, 2024
+# OSGeo Nepal Monthly Meet - March 5, 2024
 
 - **Facilitator:** Tek Kshetri
 - **Attendees:** Approx 22 people
