@@ -1,8 +1,10 @@
 ## OSGeo Nepal Community Meetup 
 
 ## Date: 
-The date is not fixed yet, We aim to have at least one physical community meetup in 2024 
-Stay Tuned with us!!!
+
+Start date: May 12, 2024
+
+End date: May 12, 2024
 
 ## Description: 
 
@@ -30,7 +32,7 @@ Note: This description and event plan is subject to change
 
 ## Location:
 
-**Pokhara** and **Kathmandu** are the proposed locations. We will decide based on the logistics, funding, and discussions.
+**Pokhara**
 
 ## Target Audience:
 
@@ -40,7 +42,15 @@ Open source geospatial tech enthusiastic within Nepal
 
 50
 
+## Sponsorship:
+
+Currently, we are in talks with various stakeholders. Once, it is finalized will update the information.
+
+## Budget estimation:
+
+
+
 ## Collaboration 
 
 - **NGES:** Nepal Geomatics Engineering Society (NGES)
-- **OSM Nepal** : Nepal community of open street map contributors
+- **OSM Nepal**: Nepal community of open street map contributors
