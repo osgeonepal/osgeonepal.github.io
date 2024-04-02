@@ -47,8 +47,13 @@ Open source geospatial tech enthusiastic within Nepal
 Currently, we are in talks with various stakeholders. Once, it is finalized will update the information.
 
 ## Budget estimation:
-
-
+- Accomodation and fooding: $1200
+- Presentation and venue: $300
+- Travel grant and Management: $1000
+- Conference materials and resources: $300
+- Others: $200
+----------------
+Total: $3000
 
 ## Collaboration 
 
