@@ -1,6 +1,6 @@
 ## OSGeo Nepal
 
-Rolling Doc and Wiki for OSGeo Nepal, Follow [here](https://osgeonepal.github.io/rollingdoc/)
+Rolling Doc and Wiki for OSGeo Nepal, Follow [here](https://osgeonepal.github.io/)
 
 ## Contributing
 
