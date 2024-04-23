@@ -4,7 +4,6 @@ about: Submit details for an event
 title: 'Event: [EVENT NAME]'
 labels: event
 assignees: ''
-
 ---
 
 ## Event Details
