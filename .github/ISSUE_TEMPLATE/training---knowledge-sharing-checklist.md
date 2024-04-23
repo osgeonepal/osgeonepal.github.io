@@ -4,7 +4,7 @@ about: The purpose of this issue template is to fill the required details for th
   upcoming webinar easily without missing anything.
 title: "[Training & collaboration]"
 labels: training
-assignees: iamtekson, Lalitgis, Pratichhya
+assignees: ''
 
 ---
 

@@ -1,3 +1,11 @@
+---
+name: 'default pr'
+about: Submit details for an event
+title: '[Type of work]: [Title]'
+labels: ''
+assignees: ''
+---
+
 ## What does this PR do ? 
 
 - Fixes ....(Mention issue number here)
