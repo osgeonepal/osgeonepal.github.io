@@ -61,6 +61,13 @@ git push origin <feature-branch>
 ### Creating the pull request
 
 - Open pull request (PR): Go to your GitHub repository, switch to your <feature-branch> (that you pushed), and click on the "New Pull Request" button.
+
+  #### Follow Pull request template : 
+  - In order to add pull request template simple add `?template=default.md` in your PR URL for Eg : 
+    ```
+    https://github.com/osgeonepal/osgeonepal.github.io/compare/event/PR?template=events.md
+    ```
+
 - Describe your changes: Write a clear and concise description of the changes you made.
   _Reference any related issues_
 - Review process: Address the feedback that the project maintainer provide if any.
