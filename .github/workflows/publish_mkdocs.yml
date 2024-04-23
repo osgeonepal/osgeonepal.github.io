@@ -22,7 +22,7 @@ jobs:
           publish_branch: gh-pages
       - name: Install Dependencies
         run: |
-          pip install mkdocs-material==8.5.11 mkdocs-jupyter==0.22.0 neoteroi-mkdocs==0.1.2 mkdocs-awesome-pages-plugin==2.9.2
+          pip install mkdocs-material==8.5.11 mkdocs-jupyter==0.22.0 neoteroi-mkdocs==0.1.2 mkdocs-awesome-pages-plugin==2.9.2 lxml_html_clean==0.1.1
 
       - name: Deploy Documentation
         run: python -m mkdocs  gh-deploy --force -f mkdocs.yml
