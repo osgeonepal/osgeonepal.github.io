@@ -63,7 +63,6 @@ markdown_extensions:
   - pymdownx.extra
   - pymdownx.tabbed:
       alternate_style: true
-  - mdx_truly_sane_lists
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji: #for emoji support e.g checkmarks
