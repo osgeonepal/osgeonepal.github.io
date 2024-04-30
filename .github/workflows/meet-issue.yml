@@ -30,5 +30,5 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         title: Meeting [${{ steps.next-meeting.outputs.date }}]
-        content-filepath: .github/ISSUE_TEMPLATE/meeting.md
+        content-filepath: .github/ISSUE_TEMPLATE/Meeting.md
         labels: meeting
