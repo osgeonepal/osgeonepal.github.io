@@ -29,5 +29,5 @@ jobs:
       uses: peter-evans/create-issue-from-file@v5
       with:
         title: Meeting [${{ steps.next-meeting.outputs.date }}]
-        content-filepath: .github/ISSUE_TEMPLATE/Meeting.md
+        content-filepath: .Meeting.md
         labels: meeting
