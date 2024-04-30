@@ -17,9 +17,14 @@ jobs:
       id: next-meeting
       run: |
         next_month=$(date -d 'next month' +'%Y-%m-01')
-        day=$(date -d "$next_month +$(date -d "$next_month" +'%u' | awk '{print 3-$1%7"%7"}') day" +'%Y-%m-%d')
-        echo "::set-output name=date::$day"
-        
+        day=$(date -d "$next_month" +'%Y-%m-%d')
+        day_of_week=$(date -d "$day" +'%u') # 1 = Monday, 7 = Sunday
+        if [ "$day_of_week" -eq 3 ]; then
+          echo "::set-output name=date::$day"
+        else
+          days_to_add=$(( 3 - day_of_week + 7 ))
+          echo "::set-output name=date::$(date -d "$day +$days_to_add days" +'%Y-%m-%d')"
+        fi
     - name: Create monthly meeting issue
       uses: peter-evans/create-issue-from-file@v4
       with:
