@@ -29,5 +29,5 @@ jobs:
       uses: peter-evans/create-issue-from-file@v5
       with:
         title: Meeting [${{ steps.next-meeting.outputs.date }}]
-        content-filepath: .Meeting.md
+        content-filepath: ./Meeting.md
         labels: meeting
