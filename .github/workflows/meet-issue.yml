@@ -32,3 +32,4 @@ jobs:
         title: Meeting [${{ steps.next-meeting.outputs.date }}]
         content-filepath: .github/ISSUE_TEMPLATE/Meeting.md
         labels: meeting
+        repository: osgeonepal/osgeonepal.github.io
