@@ -26,4 +26,4 @@
    - Nirab Pudasaini.
 
 3. **Let's Start a Rolling Doc to Track What We Are Doing and How From the Beginning:**
-   - Participants: Deepak Parajuli, Shristi Didi.
+   - Participants: Deepak Parajuli, Shristi.
