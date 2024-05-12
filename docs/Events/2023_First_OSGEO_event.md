@@ -24,5 +24,5 @@ The Event was well recieved by almost 80+ People who learned alot about geospati
 https://www.youtube.com/watch?v=rVQ_lgtaIbY
 
 ### Poster
-![event poster](https://github.com/osgeonepal/osgeonepal.github.io/assets/39838116/d897efd5-ca0e-4305-b33d-667be414e2f5)
+![event poster](https://cdn.discordapp.com/attachments/1205836968315855008/1205913885459218452/banner-05.png?ex=66419793&is=66404613&hm=358efd145aacef531511f6bbe3c4ea3b3c700c5db20db444774ad4a08b158679&)
 
