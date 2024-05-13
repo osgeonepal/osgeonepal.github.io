@@ -9,7 +9,7 @@
 - **Start:** End of March
 - **Actions:**
   - Tek to finalize contract and template
-  - Pratikchya di to finalize booth on KU
+  - Pratikchya to finalize booth on KU
   - Kshitij and Addesh to finalize coding party
   - Social media announcement by Varun
   - Update Github IO with our plans: Hem Raj Pandey
@@ -18,11 +18,11 @@
 ### 2. Training and Collaboration
 - OSGeo Official Registration Approved
 - Focal person reply back
-- Booth missed out: Pratikschya di to reach out
+- Booth missed out: Pratikschya to reach out
 - Summer School Update: Awaited
 - Collaboration Document Ready for NGESS
 - **Actions:**
-  - Draft poster ideas and seek help: Pratikchya di
+  - Draft poster ideas and seek help: Pratikchya
   - Introduce OSGeo and open source at KU booth
   - Representative from OSGeo: Rabina
   - Informal discussion
@@ -36,10 +36,10 @@
 - Volunteer for grant reply for physical meetup: Aadesh with Sovas
 
 ### 5. Communication
-- Varun dai to create a template next month
+- Varun to create a template next month
 - Post links from data access
 - Newsletter concept moved to the next meeting agenda
-- Inform Varun dai about NGESS communication: Tek
+- Inform Varun about NGESS communication: Tek
 - Varun to create priority sheet
 
 ### 6. Data Access
