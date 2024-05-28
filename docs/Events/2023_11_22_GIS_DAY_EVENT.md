@@ -4,6 +4,8 @@
 
 **Date and Time:** 2023-11-22 Wednesday, 7:00 PM (Nepali Time)
 
+**Coordinator:** Tek Kshetri (@iamtekson)
+
 **Host:** Deepak Pradhan (@varun2948)
 
 **Speaker:** Biplov Bhandari, Pradip Khatiwada, Upendra Oli
@@ -16,8 +18,8 @@ Pradip Khatiwada - Executive Director, Youth Innovation Lab
 
 Upendra Oli - Co-Founder/CEO, NAXA
 
-### Short Description about Event:
-The Event was well recieved by almost 80+ People who learned alot about geospatial tools and how opensource geospatial tools is being used over different domain of different companies and is trusted by so many people.
+### Short Description of Event:
+The Event was well received by almost 100+ People who learned a lot about geospatial tools and how open-source geospatial tools are being used over the different domains of different companies and are trusted by so many people.
 
 ### Video Recording
 
