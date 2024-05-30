@@ -1,8 +1,10 @@
 ## Coding Party
 
-### Date: Jan 14, 2024
+**Poster By:** Aayush Chand
 
-### Poster: 
+**Date:** Jan 14, 2024
+
+### Poster:
 
 ![IMG_1902](https://github.com/osgeonepal/rollingdoc/assets/36752999/75da6025-c423-4127-a19e-628165943c30)
 
@@ -12,4 +14,4 @@ The Coding Party is an event organized by OSGeo Nepal to foster community activi
 
 ### Resources
 
-- Contributed to https://github.com/osgeonepal/rollingdoc/ 
+- Contributed to https://github.com/osgeonepal/rollingdoc/
