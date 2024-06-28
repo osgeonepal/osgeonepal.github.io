@@ -14,7 +14,7 @@ Before you start your journey, make sure you have the following:
 
 ### Finding the issue
 
-- Find the issue: Explore the OSGeoNepal repositories, and find the issue the pique your interest.
+- Find the issue: Explore the OSGeoNepal repositories, and find the issue that piques your interest.
 - Filter by Labels: Use labels like "beginner-friendly" or "good first issue" to indicate tasks suitable for newcomers. Look for these labels when searching for issues.
 - Read the Documentation: Go through the project's README and contributing guidelines to understand the project structure, coding conventions, and how to contribute.
 
