@@ -1,12 +1,13 @@
 If you have questions, suggestions, or memories from our previous chapter, we'd love to hear from you:
 
-
-- **Email:** [osgeonepal@googlegroup.com](mailto:osgeonepal@googlegroup.com)
-- **Facebook:** [OSGeo Nepal Facebook Group](https://www.facebook.com/groups/osgeonepal) (very active)
+- **Email:** [osgeonepal@gmail.com](mailto:osgeonepal@gmail.com)
+- **Discord:** [OSGeo Nepal Discord](https://discord.gg/wAYsS5gE) (very active)
+- **Facebook:** [OSGeo Nepal Facebook Group](https://www.facebook.com/groups/osgeonepal) (active)
+- **Google Group:** [OSGeo Nepal Google Group](https://groups.google.com/u/2/g/osgeonepal)
 - **Twitter:** [OSGeo Nepal Twitter](https://twitter.com/osgeonepal)
 - **LinkedIn:** [OSGeo Nepal LinkedIn](https://www.linkedin.com/company/osgeonepal)
 - **GitHub:** [OSGeo Nepal GitHub](https://github.com/osgeonepal)
-- **Discord:** [OSGeo Nepal Discord](https://discord.gg/wAYsS5gE) (very active)
+- **OSGeo Nepal: Registration of Interest:** [Registration of Interest: google sheet](https://docs.google.com/spreadsheets/d/1BPi7ZNDHCvV2feDgn_Knpr1DpDpQV3134MYmTA-iOIc/edit?usp=sharing)
 
 We are excited to reconnect with old friends and welcome new faces as we embark on this renewed journey with OSGeo Nepal!
 
