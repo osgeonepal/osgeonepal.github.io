@@ -1,22 +1,4 @@
-# Roles and Responsibilities 
-
-## Table of Contents
-1. [General Member](#general-member)
-   - [Roles](#roles)
-   - [Responsibilities](#responsibilities)
-2. [Working Group Admin](#working-group-admin)
-   - [Roles](#roles-1)
-   - [Responsibilities](#responsibilities-1)
-3. [Campus Representative](#campus-representative)
-   - [Roles](#roles-2)
-   - [Responsibilities](#responsibilities-2)
-4. [Meeting Facilitator](#meeting-facilitator)
-   - [Roles](#roles-3)
-   - [Responsibilities](#responsibilities-3)
-5. [Meeting Note Taker](#meeting-note-taker)
-   - [Roles](#roles-4)
-   - [Responsibilities](#responsibilities-4)
-6. [General Rules](#general-rules)
+# Roles and Responsibilities Description
 
 ### General Member
 #### Roles:
