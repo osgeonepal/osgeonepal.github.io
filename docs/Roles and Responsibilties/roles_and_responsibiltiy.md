@@ -1,4 +1,6 @@
-# Table of Contents
+# Roles and Responsibilities 
+
+## Table of Contents
 1. [General Member](#general-member)
    - [Roles](#roles)
    - [Responsibilities](#responsibilities)
