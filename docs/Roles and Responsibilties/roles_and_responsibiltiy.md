@@ -64,19 +64,19 @@
 
 #### Responsibilities:
 
-**Pre-Meeting:**
+##### Pre-Meeting: 
 - Pre-check the agenda for the meeting. Drop an email in the Google group with the tentative agenda at least 3 days before the meeting and ask for members' contributions.
 - Coordinate with engaged members in the agenda to ensure they are prepared beforehand.
 - Drop the reminder for everyone in the email, social media message group, including Discord about the general meeting on the same day (e.g., "We are starting in one hour").
 
-**During Meeting:**
+##### During Meeting:
 - Appoint a meeting note taker.
 - Facilitate the meeting:
   - Recap and follow up on previous meeting action items.
   - Go through current agendas one by one.
 - Appoint the next meeting facilitator.
 
-**Post Meeting:**
+##### Post Meeting:
 - Review and merge the meeting notes to GitHub as a PR.
 - If unable to attend, hand over the responsibility to another person at least 3 days prior.
 
