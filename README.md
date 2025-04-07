@@ -28,7 +28,7 @@ We send related information in our google group , Subscribe and Join from [osgeo
 
 ## Join in Monthly Meetups of OSGEO community
 
-Meetings are scheduled on the first Wednesday of Every Month 7 pm onwards.
+Meetings are scheduled on the first Friday of Every Month 7 pm onwards.
 Join the **OSGEO Nepal** Jitsi meet room via link [here.](https://meet.jit.si/osgeonepal)
 
 Let's have open discussions!!!
