@@ -1,0 +1,5 @@
+mkdocs-material==8.5.11
+mkdocs-jupyter==0.22.0
+neoteroi-mkdocs==0.1.2
+mkdocs-awesome-pages-plugin==2.9.2
+lxml_html_clean==0.1.1
