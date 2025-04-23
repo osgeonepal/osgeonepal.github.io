@@ -13,4 +13,4 @@ We are excited to reconnect with old friends and welcome new faces as we embark 
 
 Feel free to contact our working group managers
 
-![Working_Groups_1](https://github.com/osgeonepal/rollingdoc/assets/89729819/38dea443-94a5-4d8e-a46d-e11f3efc2afa)
+![Working_Groups_1](https://github.com/user-attachments/assets/eb2016d7-46b6-4988-b8eb-678235eb4281)
