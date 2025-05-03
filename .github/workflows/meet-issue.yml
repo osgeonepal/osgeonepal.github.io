@@ -19,10 +19,10 @@ jobs:
         next_month=$(date -d 'next month' +'%Y-%m-01')
         day=$(date -d "$next_month" +'%Y-%m-%d')
         day_of_week=$(date -d "$day" +'%u') # 1 = Monday, 7 = Sunday
-        if [ "$day_of_week" -eq 3 ]; then
+        if [ "$day_of_week" -eq 5 ]; then
           echo "::set-output name=date::$day"
         else
-          days_to_add=$(( 3 - day_of_week + 7 ))
+          days_to_add=$(( 5 - day_of_week + 7 ))
           echo "::set-output name=date::$(date -d "$day +$days_to_add days" +'%Y-%m-%d')"
         fi
     - name: Create monthly meeting issue
